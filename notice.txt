@@ -22,3 +22,14 @@ if and wherever such third-party acknowledgements normally appear.
 The name spring-security-oauth must not be used to endorse or promote
 products derived from this software without prior written permission.
 For written permission, please contact ryan@webcohesion.com.
+
+Some preferences I found useful: 
+ http://blabadi.blogspot.com/2014/08/creating-your-own-oauth2-server-and.html
+ http://stackoverflow.com/questions/7522831/what-is-the-purpose-of-the-implicit-grant-authorization-type-in-oauth-2
+ https://www.quora.com/In-OAuth-2-0-how-do-resource-servers-assert-a-token-issued-by-an-authorization-server
+ http://oauthlib.readthedocs.io/en/latest/oauth2/grants/password.html
+ https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#iatDef
+ https://beku8.wordpress.com/2015/03/31/configuring-spring-oauth2-with-jwt-asymmetric-rsa-keypair/
+ https://github.com/spring-projects/spring-security-oauth/issues/388
+ http://projects.spring.io/spring-security-oauth/docs/oauth2.html
+ 
